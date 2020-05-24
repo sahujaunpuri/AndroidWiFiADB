@@ -1,3 +1,5 @@
+https://stackoverflow.com/questions/33726622/how-to-debug-in-android-studio-using-adb-over-wifi/33885356
+
 Android WiFi ADB - IntelliJ/Android Studio Plugin [![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-Android%20WiFi%20ADB-brightgreen.svg?style=flat)](http://android-arsenal.com/details/1/2654)
 =================================================
 ![Android WiFi ADB][1]
